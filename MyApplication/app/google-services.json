@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "971778047345",
+    "firebase_url": "https://fir-msg-62ada.firebaseio.com",
+    "project_id": "fir-msg-62ada",
+    "storage_bucket": "fir-msg-62ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971778047345:android:4fd49ccbb9ffcdab",
+        "android_client_info": {
+          "package_name": "com.reja.firebirdmsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971778047345-tomujpfkk34oco3jl511m0atksrvtcgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmsEoq7FERSIDDN4SP7OCgXAkXM1TsfOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
